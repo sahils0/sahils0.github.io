@@ -1,10 +1,10 @@
-# al-folio
+# Sahil Shaikh — Software Engineer
 
 <div align="center">
 
-[![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
+[![Preview](readme_preview/al-folio-preview.png)](https://sahils0.github.io/)
 
-**A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) starter for academic websites.**
+**Personal website of [Sahil Shaikh](https://sahils0.github.io/), built with the [al-folio](https://github.com/alshedivat/al-folio) Jekyll starter.**
 
 _In `v1.x`, al-folio is a **thin starter, not a theme**: the runtime ships as independently versioned plugin gems, so you pick up fixes and features by bumping a pinned version in your `Gemfile` instead of merging theme internals into your site._
 
@@ -51,7 +51,7 @@ Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarasc
 
 <!--ts-->
 
-- [al-folio](#al-folio)
+- [Sahil Shaikh — Software Engineer](#sahil-shaikh--software-engineer)
   - [Getting started](#getting-started)
   - [Table Of Contents](#table-of-contents)
   - [Installing and Deploying](#installing-and-deploying)

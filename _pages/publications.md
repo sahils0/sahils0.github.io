@@ -9,6 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+No publications yet. Add BibTeX entries to `_bibliography/papers.bib` as they are published.
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
